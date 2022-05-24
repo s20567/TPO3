@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="TPO3_MS_S20567:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>TPO3_MS_S20567</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="TPO3_MS_S20567-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="TPO3_MS_S20567:war exploded" />
+    </root>
+  </artifact>
+</component>
